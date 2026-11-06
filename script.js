@@ -7,4 +7,4 @@ function timestamp() {
   }
 }
 
-setInterval(timestamp, 500);
+setInterval(timestamp, 500)
